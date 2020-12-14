@@ -7,6 +7,10 @@
    but not to much time you are waiting forever. You mus change the username and password in the code - lines 58 and 66
 */
 
+/*
+    This code will need to be modified to work with newer ChromeOS versions. The button code can be stripped. It was used for feed back on custom built boxes. 
+*/
+
 #include <Bounce.h>
 
 //Button and LED pins. 
